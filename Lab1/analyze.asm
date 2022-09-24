@@ -1,5 +1,5 @@
   # analyze.asm
-  # This file was written 2015 by F Lundevall and edited by Sara Rydell.
+  # This file was written 2015 by F Lundevall and edited 2022 by Sara Rydell.
 
     	.text
 main:
