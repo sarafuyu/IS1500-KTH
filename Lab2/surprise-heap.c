@@ -1,6 +1,6 @@
 /*
  sieves-heap.c
- Written by Lucas Lund, reviewed by Sara Rydell.
+ Written by Lucas Lund and Sara Rydell.
  Last modified: 2022-09-20
 */
 
