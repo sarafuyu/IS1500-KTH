@@ -1,5 +1,5 @@
   # hexmain.asm
-  # Written 2015-09-04 by F Lundevall
+  # Written 2015-09-04 by F Lundevall and edited 2022 by Sara Rydell.
   # Copyright abandoned - this file is in the public domain.
 
 	.text
