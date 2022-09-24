@@ -1,3 +1,6 @@
+  # delay.asm
+  # This file was written 2022 by Sara Rydell.
+  
 delay:
 	PUSH 	$s1
 	PUSH 	$s2
@@ -6,7 +9,7 @@ delay:
 	j 	loop1		
 	nop
 loop1: 				# while ms > 0 loop
-	addi 	$a0,$a0,-1 	# ms = ms – 1
+	addi 	$a0,$a0,-1 	# ms = ms â€“ 1
 	li 	$s1,0 		# i = 0
 	j 	loop2
 	nop
