@@ -1,6 +1,5 @@
   # analyze.asm
-  # This file written 2015 by F Lundevall and edited by Sara Rydell
-  # Copyright abandoned - this file is in the public domain.
+  # This file was written 2015 by F Lundevall and edited by Sara Rydell.
 
     	.text
 main:
