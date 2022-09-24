@@ -1,6 +1,6 @@
 /*
  print-prime.c
- Written by Lucas Lund, reviewed by Sara Rydell
+ Written by by Sara Rydell and Lucas Lund
  Last modified: 2022-09-20
 */
 
